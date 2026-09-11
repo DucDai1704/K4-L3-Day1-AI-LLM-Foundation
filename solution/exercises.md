@@ -15,7 +15,7 @@ Gọi call_openai với temperature 0.0, 0.5, 1.0 và 1.5 dùng prompt
 **"Hãy kể cho tôi một sự thật thú vị về Việt Nam."**
 
 **Bạn nhận thấy quy luật gì qua bốn phản hồi?** (2–3 câu)
-Khi gọi với Temperature = 0.0, câu trả lời rất an toàn, rập khuôn và lặp lại giống hệt nhau nếu chạy nhiều lần. Khi tăng dần lên 0.5 và 1.0, AI bắt đầu sáng tạo hơn, dùng từ ngữ phong phú và đa dạng hơn. Tuy nhiên ở mức rất cao (1.5), câu trả lời bắt đầu trở nên lủng củng, dùng từ kỳ lạ hoặc thậm chí "ảo giác" (bịa ra sự thật vô lý).
+Khi gọi với Temperature = 0.0, câu trả lời rất an toàn, rập khuôn và lặp lại giống hệt nhau nếu chạy nhiều lần. Khi tăng dần lên 0.5 và 1.0, AI bắt đầu sáng tạo hơn, dùng từ ngữ phong phú và đa dạng hơn. Tuy nhiên ở mức rất cao (1.5), câu trả lời bắt đầu trở nên lủng củng, dùng từ khó hiểu và lạ
 
 ### Câu 1.2 — Chọn temperature cho sản phẩm
 **Bạn sẽ đặt temperature bao nhiêu cho chatbot hỗ trợ khách hàng, và tại sao?**
